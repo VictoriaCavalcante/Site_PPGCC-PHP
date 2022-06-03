@@ -132,7 +132,7 @@ $usuarios = true;
                 <div class="card">
 
                     <div class="card-header">
-                        <h3>Cadastrar Usuário</h3>
+                        <h3>Editar Usuário</h3>
                     </div>
                     <div class="card-body">
 

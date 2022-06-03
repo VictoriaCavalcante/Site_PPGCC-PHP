@@ -10,7 +10,7 @@
   
     $db_name = 'ppgcc';
     $user = 'root';
-    $senha = '';
+    $senha = 'root';
     $host = 'localhost';
 
     $cnx = mysqli_connect($host,$user,$senha,$db_name);
